@@ -8,7 +8,9 @@
 ---
 
 ## 👨‍💻 About Me
-I am passionate about data analysis and enjoy uncovering insights through data cleaning, visualization, and statistical thinking. I have experience using Python, SQL, and analytical libraries to explore datasets and solve practical problems. I work well in teams, adapt quickly, and continuously improve my skills to become a strong Data Analyst.
+I am a passionate Full Stack Developer with a strong interest in modern technologies  
+and problem-solving. I enjoy transforming ideas into real-world applications  
+with clean design, solid architecture, and maintainable code.
 
 ---
 
@@ -52,6 +54,12 @@ I am passionate about data analysis and enjoy uncovering insights through data c
 
 ---
 
+## 🚀 Focus Areas
+- Full Stack Web & Mobile Development  
+- API Design & Backend Architecture  
+- Clean Code & Performance Optimization  
+
+---
 
 ## 📫 Contact
 <p align="center">
